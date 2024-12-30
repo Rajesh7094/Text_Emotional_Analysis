@@ -15,20 +15,19 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 ## Text Emotional Analysis with Streamlit
 
 **App Main Page**
-
 ![img.png](img.png)
 
 **Positive Prediction**
+![img_1.png](img_1.png)
 
-![img_2.png](img_2.png)
 
 **Neutral Prediction**
+![img_2.png](img_2.png)
 
-![img_3.png](img_3.png)
 
 **Negative Prediction**
 
-![img_4.png](img_4.png)
+![img_3.png](img_3.png)
 
 ## Requirements
 * Python 3.X
