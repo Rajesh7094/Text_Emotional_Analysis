@@ -12,21 +12,21 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ###  If you have any doubt or want to contribute feel free to hit me up on (rajesherode2004@gmail.com)
 
-# Text Emotional Analysis with Streamlit 
+## Text Emotional Analysis with Streamlit
 
-### App Main Page
+**App Main Page**
 
 ![App main page](Images/App Main Page.png)
 
-### Positive Prediction
+**Positive Prediction**
 
-![Positive predictiion](Positive Prediction.png)
+![Positive Prediction](Positive Prediction.png)
 
-### Neutral Prediction 
+**Neutral Prediction**
 
-![Neutral prediction](Neutral Prediction.png)
+![Neutral Prediction](Neutral Prediction.png)
 
-### Negative Prediction
+**Negative Prediction**
 
 ![Negative Prediction](Negative Prediction.png)
 
