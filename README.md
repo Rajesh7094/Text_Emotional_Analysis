@@ -16,7 +16,7 @@ This app is up and running on Streamlit cloud server!!! Thanks 'Streamlit' for t
 
 ### App Main Page
 
-![App main page](App Main Page.png)
+![App main page](Images/App Main Page.png)
 
 ### Positive Prediction
 
