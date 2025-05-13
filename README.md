@@ -67,6 +67,9 @@ $ streamlit run app.py
 ```
 </br>
 
+Live Demo link 
+    https://rajesh7094-text-emotional-analysis-app-iynxcy.streamlit.app/
+
 
 ## Acknowledgements
 If you have any doubt or want to contribute feel free to hit me up on (rajesherode2004@gmail.com)
